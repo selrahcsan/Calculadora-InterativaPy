@@ -21,7 +21,7 @@ setup(
     url="https://github.com/seu_usuario/meu_projeto",
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
+        "License :: OSI Approved :: GNU License",
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
