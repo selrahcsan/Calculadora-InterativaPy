@@ -36,7 +36,7 @@ meu_ambiente\Scripts\activate
 
 ## Instalando as dependências
 ```shell
-pip install colorma
+pip install colorama
 ```
 
 ### E Desativar o Ambiente Virtual
