@@ -1,6 +1,6 @@
 # Calculadora Interativa Py
 
-Uma simples calculadora em pyton, que realiza operações aritméticas de 2 números inteiros
+Uma simples calculadora em pyton, que realiza operações aritméticas de 2 números inteiros.
 
 ```
 ------------------------------
